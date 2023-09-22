@@ -1,0 +1,19 @@
+body{
+	display: inline;
+}
+
+.myDiv2 {
+  text-decoration: underline;
+}
+
+.myDiv3{
+    background: orange;
+}
+
+.myDiv4{
+    color: red;
+}
+
+.myDiv6{
+    color: red;
+}
